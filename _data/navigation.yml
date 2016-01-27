@@ -1,8 +1,8 @@
-- title: Inicio
+- title: "Inicio"
   url: "/"
   side: left
 
-- title: Fotos
+- title: "Fotos"
   url: "/getting-started/"
   side: left
 
@@ -15,10 +15,10 @@
   side: left
     url: "/design/no-header-but-image/"
 
-- title: Crie o Grêmio na sua escola
+- title: "Crie o Grêmio na sua escola"
   url: "/documentation/"
   side: left
 
-- title: Contato
+- title: "Contato"
   url: "/blog/"
   side: right 
