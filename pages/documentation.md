@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
+subheadline: "Aqui eu mecho em alguma coisa"
 teaser: "The documentation is a work in progress..."
 permalink: "/documentation/"
 header:
