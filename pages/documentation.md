@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Theme Documentation"
-subheadline: "Aqui eu mecho em alguma coisa"
+subheadline: "Aqui eu mexo em alguma coisa"
 teaser: "The documentation is a work in progress..."
 permalink: "/documentation/"
 header:
